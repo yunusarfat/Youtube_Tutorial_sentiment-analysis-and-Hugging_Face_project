@@ -46,18 +46,15 @@ Sentiment Mapping:
 Model Used: Linear Support Vector Classifier (LinearSVC)
 ### Performance:
 Accuracy Achieved: ~0.82
-Example Prediction
 
 ### Input:
-
 This tutorial explanation is terrible 
 ### Output:
-
-Cleaned: tutorial explanation terrible 
-Sentiment: Negative 😞
+Cleaned: tutorial explanation terrible  <br/>
+Sentiment: Negative 😞<br/>
 
 ### 👨‍💻 Author
 
-Arfat
+Arfat<br/>
 Full-Stack Developer | ML Enthusiast
   
