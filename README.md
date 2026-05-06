@@ -14,10 +14,10 @@ Live Demo
 🔗 [https://huggingface.co/spaces/arfat16/Youtube-Tutorial-Sentiment-Analysis]
 
 ### Dataset Information
-#### Dataset: YouTube Tutorial Segment Reviews (from Kaggle / tutorial dataset)
-Columns used:
-Text → User review/comment
-Score → Rating or sentiment indicator
+#### Dataset: YouTube Tutorial Segment Reviews (from Kaggle)
+Columns used:<br/>
+Text → User review/comment<br/>
+Score → Rating or sentiment indicator<br/>
 Sentiment Mapping:
 * Score 1–2 → Negative 
 * Score 3 → Neutral 
