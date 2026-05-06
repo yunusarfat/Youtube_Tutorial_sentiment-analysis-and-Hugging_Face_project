@@ -3,8 +3,8 @@ import gradio as gr
 import re
 
 # load model
-model = pickle.load(open("model.pkl", "rb"))
-tfidf = pickle.load(open("tfidf.pkl", "rb"))
+model = pickle.load(open("models_s.pkl", "rb"))
+tfidf = pickle.load(open("tfidfs.pkl", "rb"))
 
 def preprocess(text):
     text = text.lower()
