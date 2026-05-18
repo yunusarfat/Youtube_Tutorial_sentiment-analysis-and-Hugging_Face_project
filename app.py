@@ -6,7 +6,7 @@ import re
 # load model
 model = pickle.load(open("models_s.pkl", "rb"))
 tfidf = pickle.load(open("tfidfs.pkl", "rb"))
-
+# convert to lower
 def preprocess(text):
     text = text.lower()
     text = re.sub(r'[^a-zA-Z\s]', '', text)
